@@ -1,0 +1,1 @@
+print("Nicusor Dan Presedinte")
